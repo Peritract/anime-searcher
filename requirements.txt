@@ -1,0 +1,14 @@
+astroid
+certifi
+charset-normalizer
+dill
+idna
+isort
+lazy-object-proxy
+mccabe
+platformdirs
+pylint
+requests
+tomlkit
+urllib3
+wrapt
